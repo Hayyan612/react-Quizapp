@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-Quizapp.git/static/css/main.01aa8048.css",
-    "main.js": "/react-Quizapp.git/static/js/main.838794a3.js",
-    "static/js/787.9e69a5db.chunk.js": "/react-Quizapp.git/static/js/787.9e69a5db.chunk.js",
-    "index.html": "/react-Quizapp.git/index.html",
-    "main.01aa8048.css.map": "/react-Quizapp.git/static/css/main.01aa8048.css.map",
-    "main.838794a3.js.map": "/react-Quizapp.git/static/js/main.838794a3.js.map",
-    "787.9e69a5db.chunk.js.map": "/react-Quizapp.git/static/js/787.9e69a5db.chunk.js.map"
+    "main.css": "/react-Quizapp/static/css/main.01aa8048.css",
+    "main.js": "/react-Quizapp/static/js/main.a80dc6c2.js",
+    "static/js/787.9e69a5db.chunk.js": "/react-Quizapp/static/js/787.9e69a5db.chunk.js",
+    "index.html": "/react-Quizapp/index.html",
+    "main.01aa8048.css.map": "/react-Quizapp/static/css/main.01aa8048.css.map",
+    "main.a80dc6c2.js.map": "/react-Quizapp/static/js/main.a80dc6c2.js.map",
+    "787.9e69a5db.chunk.js.map": "/react-Quizapp/static/js/787.9e69a5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01aa8048.css",
-    "static/js/main.838794a3.js"
+    "static/js/main.a80dc6c2.js"
   ]
 }
