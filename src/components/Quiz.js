@@ -64,7 +64,7 @@ function Quiz() {
 
   return (
     <div>
-      <p className='heading-txt'></p>
+      <p className='heading-txt'> Quiz </p>
       <div className='container'>
         {showResult ? (
           <QuizResult score={score} totalScore={QuizData.length} tryAgain={resetAll} />
